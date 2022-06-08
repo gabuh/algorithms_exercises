@@ -1,0 +1,1 @@
+z) Elaborar um programa que leia uma matriz A de uma dimensao com dez elementos numericos inteiros. Apresentar o total de elementos impares existentes na matriz e tambem o percentual do valor total de numeros impares em relaçao à quantidade total de elementos armazenados.

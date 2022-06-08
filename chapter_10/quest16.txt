@@ -1,0 +1,1 @@
+k) Elaborar um programa que apresente a mensagem "Este valor e divisivel por 2 ou 3". Deve ser solicitado pelo programa principal o valor a ser verificado. Caso o valor nao atenda à condiçao desejada, a sub-rotina deve apresentar a mensagem "Valor invalido".

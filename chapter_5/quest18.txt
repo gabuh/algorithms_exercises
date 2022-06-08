@@ -1,0 +1,2 @@
+s) Elaborar um programa que apresente o resultado inteiro da divisao de dois numeros quaisquer, representando o dividendo e o divisor da divisao a ser processada. Sugestao: para a elaboraçao do programa, nao utilize o operador aritmetico de divisao com quociente inteiro DIV.
+Use uma soluçao baseada em laço de repetiçao. O programa deve apresentar como resultado (quociente) quantas vezes o divisor cabe no dividendo.

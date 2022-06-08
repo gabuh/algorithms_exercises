@@ -1,0 +1,1 @@
+b) Efetuar a leitura de um valor numerico inteiro positivo ou negativo representado pela variavel N e apresentar o valor lido como sendo positivo. Dica: se o valor lido for menor que zero, ele deve sermultiplicado por -1.

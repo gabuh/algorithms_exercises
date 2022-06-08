@@ -1,0 +1,1 @@
+n) Elaborar um programa de computador que leia nome e sexo de um individuo. Por meio de uma sub-rotina o programa deve apresentar a mensagem "Ilmo. Sr.", caso o sexo seja masculino, e "Ilma. Sra.", caso o sexo seja feminino. Apresentar junto com cada mensagem o nome do individuo.
