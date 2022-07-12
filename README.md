@@ -3,6 +3,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 <details>
 <summary>Chapter 7</summary>
+
 ##### [EX.A](/chapter_7/quest0.c)
 ![ex.achapter7](/chapter_7/quest0_c7.png)
 
