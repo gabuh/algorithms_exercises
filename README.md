@@ -13,10 +13,20 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ### [Ex.C Elements' Factorial](/chapter_7/quest2.c)
 ![ex.cchapter7](/chapter_7/quest2_c7.png)
 
-### [Ex.D Vectors sum](/chapter_7/quest3.c)
+### [Ex.D Vectors' sum](/chapter_7/quest3.c)
 ![ex.dchapter7](/chapter_7/quest3_c7.png)
 
 ### [Ex.E Holding elements of two vectors](/chapter_7/quest4.c)
 ![ex.echapter7](/chapter_7/quest4_c7.png)
+
+### [Ex.F Sequence Searching](/chapter_7/quest5.c)
+``` mermaid
+flowchart TD
+1 ([START]) --> 2 {{i ← 1,TAM, 1}};
+2 --> 3 [/A[i]/] --> 2;
+2 --> {{i ← 1, TAM, 1 }};
+
+
+
 
 </details>
