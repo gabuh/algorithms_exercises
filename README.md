@@ -27,8 +27,8 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 ``` mermaid
 flowchart TD
-A([START]) --> B{{i  1,TAM, 1}};
-B ---> C[/A[i]/] --> B;
-B ---> D{{i 1, TAM, 1 }};
+A([START]) --> B{{i ←1 ,TAM, 1}}
+B --> C[/A[i]/] --> B
+B ----> D{{i ← 1, TAM, 1 }}
 
 ```
