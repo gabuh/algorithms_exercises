@@ -20,14 +20,15 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.echapter7](/chapter_7/quest4_c7.png)
 
 ### [Ex.F Sequence Searching](/chapter_7/quest5.c)
-``` mermaid
-flowchart TD
-1 ([START]) --> 2 {{i ← 1,TAM, 1}};
-2 --> 3 [/A[i]/] --> 2;
-2 --> {{i ← 1, TAM, 1 }};
-
-```
 
 
 
 </details>
+
+``` mermaid
+flowchart TD
+A([START]) --> B{{i ← 1,TAM, 1}};
+B ---> C[/A[i]/] --> B;
+B ---> D{{i ← 1, TAM, 1 }};
+
+```
