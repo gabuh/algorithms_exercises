@@ -17,6 +17,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 <summary> Sequential Fluxogram </summary>
 
 ![ex.bchapter7 ](/chapter_7/quest1_c7.png)
+
 </details>
 
 ### [Ex.C Elements' Factorial](/chapter_7/quest2.c)
