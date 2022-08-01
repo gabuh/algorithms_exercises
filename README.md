@@ -140,7 +140,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.R Smallest Numbers and Biggest Number](/chapter_5/quest17.c)
+### [Ex.R Smallest Number and Biggest Number](/chapter_5/quest17.c)
 <details>
 <summary> Sequential Fluxogram </summary>
 
@@ -155,8 +155,6 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.schapter5](/chapter_5/quest18_c5.png)
 
 </details>
-
-
 
 </details>
 -------------------------------------------------------------
