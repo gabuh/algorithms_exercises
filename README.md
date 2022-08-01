@@ -20,16 +20,12 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.echapter7](/chapter_7/quest4_c7.png)
 
 ### [Ex.F Sequence Searching](/chapter_7/quest5.c)
+<details>
+<summary> Sequential Fluxogram </summary>
 
-
+![ex.fchapter7](/chapter_7/quest5_c7.png)
 
 </details>
 
-``` mermaid
-flowchart TD
-  A(["START"]) --> B{{"i <- 1 ,TAM, 1"}};
-  B --> C[/"A[i]"/];
-  C --> B ;
-  B ---> D{{"i ← 1, TAM, 1 "}};
-  
-```
+
+
