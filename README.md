@@ -3,6 +3,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 <details>
 <summary>Chapter 5</summary>
+
 ### [Ex.A Power of two](/chapter_5/quest0.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -26,6 +27,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.cchapter5](/chapter_5/quest2_c5.png)
 
 </details>
+
 ### [Ex.D EVEN SUM](/chapter_5/quest3.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -33,6 +35,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.dchapter5](/chapter_5/quest3_c5.png)
 
 </details>
+
 ### [Ex.E ODD Numbers ](/chapter_5/quest4.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -40,6 +43,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.echapter5](/chapter_5/quest4_c5.png)
 
 </details>
+
 ### [Ex.F Divisibility by four ](/chapter_5/quest5.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -47,6 +51,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.fchapter5](/chapter_5/quest5_c5.png)
 
 </details>
+
 ### [Ex.G Power of three ](/chapter_5/quest6.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -54,6 +59,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.gchapter5](/chapter_5/quest6_c5.png)
 
 </details>
+
 ### [Ex.H Power of choices ](/chapter_5/quest7.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -61,6 +67,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.hchapter5](/chapter_5/quest7_c5.png)
 
 </details>
+
 ### [Ex.I Power of choices](/chapter_5/quest8.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -68,6 +75,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.ichapter5](/chapter_5/quest8_c5.png)
 
 </details>
+
 ### [Ex.J Temperature](/chapter_5/quest9.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -75,6 +83,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.jchapter5](/chapter_5/quest9_c5.png)
 
 </details>
+
 ### [Ex.K Malba Tahan](/chapter_5/quest10.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -82,6 +91,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.kchapter5](/chapter_5/quest10_c5.png)
 
 </details>
+
 ### [Ex.L Factorial](/chapter_5/quest11.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -89,6 +99,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.lchapter5](/chapter_5/quest11_c5.png)
 
 </details>
+
 ### [Ex.M Mean Sum](/chapter_5/quest12.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -96,6 +107,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.mchapter5](/chapter_5/quest12_c5.png)
 
 </details>
+
 ### [Ex.N Sum and Mean](/chapter_5/quest13.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -103,6 +115,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.nchapter5](/chapter_5/quest13_c5.png)
 
 </details>
+
 ### [Ex.O Odd Factorial](/chapter_5/quest14.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -110,6 +123,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.ochapter5](/chapter_5/quest14_c5.png)
 
 </details>
+
 ### [Ex.P Mean Sum](/chapter_5/quest15.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -117,6 +131,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.pchapter5](/chapter_5/quest15_c5.png)
 
 </details>
+
 ### [Ex.Q Area Measurement](/chapter_5/quest16.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -124,6 +139,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.qchapter5](/chapter_5/quest16_c5.png)
 
 </details>
+
 ### [Ex.R Smallest Numbers and Biggest Number](/chapter_5/quest17.c)
 <details>
 <summary> Sequential Fluxogram </summary>
@@ -131,6 +147,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ![ex.rchapter5](/chapter_5/quest17_c5.png)
 
 </details>
+
 ### [Ex.S Division Operation](/chapter_5/quest18.c)
 <details>
 <summary> Sequential Fluxogram </summary>
