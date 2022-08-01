@@ -68,7 +68,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.I Power of choices](/chapter_5/quest8.c)
+### [Ex.I Fibonacci](/chapter_5/quest8.c)
 <details>
 <summary> Sequential Fluxogram </summary>
 
