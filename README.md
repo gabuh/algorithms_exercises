@@ -1,9 +1,9 @@
 # algorithms_exercises
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
-[x] maybe now?
+- [x] maybe now?
 
 <details>
-<summary>Chapter 4</summary>
+<summary>Chapter 4 :heavy_check_mark: </summary>
 
 
 ### Nothing YET
@@ -12,11 +12,10 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+- [ ] noowds
 
-
-
-
-<details> - [ ] chapter
+<details> 
+- [ ]
 <summary>Chapter 5</summary>
 
 ### [Ex.A Power of two](/chapter_5/quest0.c)
