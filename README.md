@@ -3,7 +3,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 - [x] maybe now?
 
 <details>
-<summary>Chapter 4 :heavy_check_mark: </summary>
+<summary>Chapter 4 :white_square_button: </summary>
 
 
 ### Nothing YET
@@ -15,8 +15,8 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 - [ ] noowds
 
 <details> 
-- [ ]
-<summary>Chapter 5</summary>
+
+<summary>- [ ] Chapter 5 :white_check_mark: </summary>
 
 ### [Ex.A Power of two](/chapter_5/quest0.c)
 <details>
