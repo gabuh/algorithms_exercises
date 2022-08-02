@@ -2,7 +2,7 @@
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
 
 <details>
-<summary>Chapter 4 :white_square: </summary>
+<summary>Chapter 4 :white_medium_square: </summary>
 
 
 ### Nothing YET
