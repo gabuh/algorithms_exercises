@@ -173,7 +173,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 * *
 
 <details>
-<summary>Chapter 6</summary>
+<summary>Chapter 6 :white_large_square: </summary>
 
 ### Nothing YET
 
@@ -182,7 +182,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 * *
 
 <details>
-<summary>Chapter 7</summary>
+<summary>Chapter 7 :round_pushpin:</summary>
 
 ### [EX.A Sorting a vector](/chapter_7/quest0.c)
 <details>
