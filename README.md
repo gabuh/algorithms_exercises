@@ -1,8 +1,8 @@
 # algorithms_exercises
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
 
-<details>
-<summary>Chapter 4</summary> []
+<details> [x ]
+<summary>Chapter 4</summary>
 
 
 ### Nothing YET
@@ -15,8 +15,8 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 
 
-<details>
-<summary>Chapter 5</summary> [x]
+<details> - [  ]
+<summary>Chapter 5</summary>
 
 ### [Ex.A Power of two](/chapter_5/quest0.c)
 <details>
