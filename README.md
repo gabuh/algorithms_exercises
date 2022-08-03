@@ -11,6 +11,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+---
 
 <details> 
 
@@ -170,7 +171,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-* *
+---
 
 <details>
 <summary>Chapter 6 :white_large_square: </summary>
@@ -179,7 +180,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-* *
+---
 
 <details>
 <summary>Chapter 7 :round_pushpin:</summary>
@@ -232,5 +233,5 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-
+---
 
