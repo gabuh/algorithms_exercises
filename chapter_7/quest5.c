@@ -3,7 +3,7 @@ f) Elaborar um programa que leia 30 elementos numericos reais em uma matriz A do
 */
 
 #include<stdio.h>
-#define TAM 5
+#define TAM 30
 
 int powering(int x,int p){
    int number=1;
@@ -46,7 +46,7 @@ for(int i=0; i<TAM;i++){
   }
 } 
 if(position == -1){
-  printf("Elmento nao econtrado\n");
+  printf("Elmento nao encontrado\n");
 }
 
   for (int i=0;i<TAM;++i){
