@@ -1,3 +1,4 @@
+Desenvolver os diagramas de bloco e a codificaçao em português estruturado dos problemas computacionais seguintes.
 a) Considerando a necessidade de desenvolver uma agenda que contenha nomes, endereços e telefones de dez pessoas, defina a estrutura de registro apropriada, os diagramas de blocos e a codificaçao em português estruturado de um programa que, com o uso de subprogramas, apresente um menu e suas respectivas rotinas para a execuçao das seguintes etapas: 
 
 
