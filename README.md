@@ -233,5 +233,16 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.G Sequence Searching](/chapter_7/g.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.gchapter7](/chapter_7/g_c7.png)
+
+</details>
+
+
+
+
 ---
 
