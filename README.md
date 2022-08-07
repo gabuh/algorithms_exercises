@@ -233,7 +233,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.G Sequence Searching](/chapter_7/g.c)
+### [Ex.G Binary Searching 2](/chapter_7/g.c)
 <details>
 <summary> Sequential Fluxogram </summary>
 
