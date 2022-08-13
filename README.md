@@ -257,6 +257,46 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.J](/chapter_7/j.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.jchapter7](/chapter_7/j_c7.png)
+
+</details>
+
+### [Ex.K](/chapter_7/k.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.kchapter7](/chapter_7/k_c7.png)
+
+</details>
+
+### [Ex.L](/chapter_7/l.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.lchapter7](/chapter_7/l_c7.png)
+
+</details>
+
+### [Ex.M](/chapter_7/m.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.mchapter7](/chapter_7/m_c7.png)
+
+</details>
+
+### [Ex.N](/chapter_7/n.c)
+<details>
+<summary> Sequential Fluxogram </summary>
+
+![ex.nchapter7](/chapter_7/n_c7.png)
+
+</details>
+
 
 
 
