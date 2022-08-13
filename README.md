@@ -2,7 +2,7 @@
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
 
 <details>
-<summary>Chapter 4 :white_large_square: </summary>
+<summary>Chapter 4 - Conditional :white_large_square: </summary>
 
 
 ### Nothing YET
@@ -15,7 +15,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 <details> 
 
-<summary>Chapter 5 :white_check_mark: </summary>
+<summary>Chapter 5 - Loops :white_check_mark: </summary>
 
 ### [Ex.A Power of two](/chapter_5/a.c)
 <details>
@@ -174,7 +174,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ---
 
 <details>
-<summary>Chapter 6 :white_large_square: </summary>
+<summary>Chapter 6 - Matrices :white_large_square: </summary>
 
 ### Nothing YET
 
@@ -183,7 +183,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ---
 
 <details>
-<summary>Chapter 7 :round_pushpin:</summary>
+<summary>Chapter 7 - Sorting & Search :round_pushpin:</summary>
 
 ### [EX.A Sorting a vector](/chapter_7/a.c)
 <details>
