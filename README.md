@@ -174,7 +174,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 ---
 
 <details>
-<summary>Chapter 6 - Matrices :white_large_square: </summary>
+<summary>Chapter 6 - Matrices & Vectors :white_large_square: </summary>
 
 ### Nothing YET
 
