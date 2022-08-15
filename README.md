@@ -302,3 +302,18 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 ---
 
+<details>
+<summary>Chapter 8 :round_pushpin: </summary>
+
+### [Ex.A Two Dimension Vector](/chapter_8/a.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.achapter8](/chapter_8/a_c8.png)
+
+</details>
+
+
+</details>
+
+---
