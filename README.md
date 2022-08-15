@@ -298,7 +298,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 </details>
 
 
-
+</details> 
 
 ---
 
