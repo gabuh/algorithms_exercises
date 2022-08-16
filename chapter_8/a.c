@@ -10,7 +10,6 @@ int main(){
 int A[li][col];
 int B[li][col];
 int C[li][col];
-int i,ii;
 
 for(int c=0;c<col;c++){
   printf("> line %d of vector A>\n",c+1);
