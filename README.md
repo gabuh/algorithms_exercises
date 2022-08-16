@@ -241,7 +241,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.H](/chapter_7/h.c)
+### [Ex.H Operantion & Sorting](/chapter_7/h.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -249,7 +249,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.I](/chapter_7/i.c)
+### [Ex.I Sorting a vector 2](/chapter_7/i.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -257,7 +257,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.J](/chapter_7/j.c)
+### [Ex.J Math Operation & Factorial](/chapter_7/j.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -265,7 +265,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.K](/chapter_7/k.c)
+### [Ex.K Pow & Sorting](/chapter_7/k.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -273,7 +273,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.L](/chapter_7/l.c)
+### [Ex.L Operation & Sorting 2](/chapter_7/l.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -281,7 +281,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.M](/chapter_7/m.c)
+### [Ex.M Sequence Searching 2](/chapter_7/m.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -289,7 +289,7 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.N](/chapter_7/n.c)
+### [Ex.N Operation & Binary Search](/chapter_7/n.c)
 <details>
 <summary> Flowchart </summary>
 
