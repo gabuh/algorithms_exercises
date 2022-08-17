@@ -25,9 +25,9 @@ int main(){
       }
     }        
   }
-      
-    for(int l=0;l<lin;l++){
-  for(int c=0;c<col;c++){
+      printf("A | B\n");
+  for(int l=0;l<lin;l++){
+    for(int c=0;c<col;c++){
       printf("%d ",C[l][c]);
     }
     printf("\n");
