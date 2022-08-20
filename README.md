@@ -297,6 +297,14 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.O Binary Searching 3](/ch7/o.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.ochapter7](/ch7/o_c7.png)
+
+</details>
+
 
 </details> 
 
