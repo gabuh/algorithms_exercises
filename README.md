@@ -329,6 +329,16 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.C Two Dimension Vector2](/ch8/c.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.cchapter8](/ch8/c_c8.png)
+
+</details>
+
 
 </details>
 
