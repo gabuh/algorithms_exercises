@@ -305,6 +305,14 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.P ](/ch7/p.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.pchapter7](/ch7/p_c7.png)
+
+</details>
+
 
 </details> 
 
