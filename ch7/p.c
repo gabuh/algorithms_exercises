@@ -18,28 +18,27 @@ return 0;
 int main(){
   char A[100];
   char B[100];
-  int index;
-  int len=100;
-  char temp,temp1,temp2;
+  int len;
+  char temp;
   
-  printf("Type sothing bellow:\n");
+  printf("Type something bellow:\n");
   scanf("%s",A);
   len=strlen(A);
 
-printf("\nVector B\n");
+printf("\nB:\n");
 for(int i=0;i<len;i++){
   B[i]=A[(len-1)-i];
 }
 for(int i=0;i<len;i++){
-  printf("%c ",B[i]);
+  printf("%c",B[i]);
 }
   printf("\n");
-  for(int i=0;i<len;i++){
-    temp=B[i];
-    for(int ii=0;ii<len;ii++){
-     if(searchIndex(B[i])<searchIndex(B[ii])){
-        B[i]=B[ii];
-       B[ii]=temp;
+  for(int i=0;i<len-1;i++){
+    for(int j=0;j<(len-1)-i;j++){
+     if(searchIndex(B[j])<searchIndex(B[j+1])){
+        temp=B[j];
+        B[j]=B[j+1];
+       B[j+1]=temp;
        temp=B[i];
      }
     }
@@ -48,7 +47,6 @@ for(int i=0;i<len;i++){
   for(int i=0;i<len;i++){
     printf("%c",B[i]);
   }
-  
   printf("\n");
   return 0;
 }
