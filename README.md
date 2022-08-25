@@ -305,11 +305,19 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.P ](/ch7/p.c)
+### [Ex.P ABC Sorting](/ch7/p.c)
 <details>
 <summary> Flowchart </summary>
 
 ![ex.pchapter7](/ch7/p_c7.png)
+
+</details>
+
+### [Ex.Q ABC Sorting and Binary Search](/ch7/q.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.qchapter7](/ch7/q_c7.png)
 
 </details>
 
@@ -337,13 +345,23 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
-### [Ex.C Two Dimension Vector2](/ch8/c.c)
+### [Ex.C 2D Columns and Lines](/ch8/c.c)
 
 <details>
 
 <summary> Flowchart </summary>
 
 ![ex.cchapter8](/ch8/c_c8.png)
+
+</details>
+
+### [Ex.D 2D Columns](/ch8/d.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.dchapter8](/ch8/d_c8.png)
 
 </details>
 
