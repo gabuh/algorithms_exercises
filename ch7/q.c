@@ -3,10 +3,10 @@
 #include<stdio.h>
 #include<string.h>
 
-int searchIndex(char compChar2){
+int searchIndex(char compChar){
   char abc[]={"abcdefghijklmnopqrstuvwxyz"};
   for (int i=0;i<26;i++){
-      if(abc[i]==compChar2){
+      if(abc[i]==compChar){
         return i;
       }
   }
@@ -14,20 +14,21 @@ return 0;
 }
 
 int binarySearch(char vector[], int indexTotal,char value){
-  int index,previousIndex;
+  // int index,previousIndex;
+  int index;
   int start=0;
   do{
-    previousIndex=index;
-    index=(indexTotal+start)/2;
+    // previousIndex=index;
+    index=((indexTotal)+start)/2;
     if(vector[index]==value){
       return index;
     } 
     if(searchIndex(vector[index])<searchIndex(value)){
-      start=index;
+      start=index +1;
     }else{
-      indexTotal=index;
+      indexTotal=index -1;
     }
-  }while(index!=previousIndex);
+  }while(start<=indexTotal);
   return -1;
 }
 

@@ -8,8 +8,8 @@ d) Elaborar um programa que leia uma matriz A de uma dimensao com dez elementos 
 
 int factorial(int n){
   int f=1;
-  for(int i=0;i<n;i++){
-   f=f*n; 
+  for(int i=1;i<=n;i++){
+   f=f*i; 
   }
   return f;
 }
