@@ -4,10 +4,10 @@ p) Elaborar um programa que leia uma matriz A com dez elementos do tipo cadeia. 
 #include <stdio.h>
 #include <string.h>
 
-int searchIndex(char compChar2){
-  char abc[]={"abcdefghijklmnopqrstuvwxyz"};
-  for (int i=0;i<26;i++){
-      if(abc[i]==compChar2){
+int searchIndex(char compChar){
+  char abc[]={"'` ,[]{}.?~!@#$%^*=+-AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"};
+  for (int i=0;i<74;i++){
+      if(abc[i]==compChar){
         return i;
       }
   }
