@@ -330,6 +330,14 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 
 </details>
 
+### [Ex.S Sequence Searching 3](/ch7/s.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.schapter7](/ch7/s_c7.png)
+
+</details>
+
 
 </details> 
 
