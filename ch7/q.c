@@ -2,28 +2,31 @@
 */
 #include<stdio.h>
 #include<string.h>
+#define TAM 10
+
+struct String{
+  char value[100];
+};
 
 int searchIndex(char compChar){
-  char abc[]={"abcdefghijklmnopqrstuvwxyz"};
-  for (int i=0;i<26;i++){
-      if(abc[i]==compChar){
+  char abc[]={"'` ,[]{}.?~!@#$%^*=+-AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"};
+    for (int i=0;i<74;i++){
+       if(abc[i]==compChar){
         return i;
       }
   }
 return 0;
 }
 
-int binarySearch(char vector[], int indexTotal,char value){
-  // int index,previousIndex;
+int binarySearch(struct String vector[], int indexTotal,char value[]){
   int index;
   int start=0;
   do{
-    // previousIndex=index;
     index=((indexTotal)+start)/2;
-    if(vector[index]==value){
+    if(strcmp(vector[index].value,value)==0){
       return index;
     } 
-    if(searchIndex(vector[index])<searchIndex(value)){
+    if(searchIndex(vector[index].value[0])<searchIndex(value[0])){
       start=index +1;
     }else{
       indexTotal=index -1;
@@ -32,47 +35,47 @@ int binarySearch(char vector[], int indexTotal,char value){
   return -1;
 }
 
-void sortingAll(char vector[]){
-  int len=strlen(vector);
-  int temp;
-  for(int i=0;i<len-1;i++){
-    for(int j=0;j<(len-1)-i;j++){
-      if(searchIndex(vector[j])>searchIndex(vector[j+1])){
-        temp=vector[j];
-        vector[j]=vector[j+1];
-        vector[j+1]=temp;
+
+int main(){
+  struct String A[TAM];
+  int index;
+  char temp[100];
+  
+  
+  printf("Type something below to fulfill A:\n");
+  for(int i=0;i<TAM;i++){
+    fgets(temp,100,stdin);
+    strcpy(A[i].value,temp);
+  }
+  
+  for(int i=0;i<TAM-1;i++){
+    for(int j=0;j<(TAM-1)-i;j++){
+      if(searchIndex(A[j].value[0])>searchIndex(A[j+1].value[0])){
+        strcpy(temp,A[j].value);
+        strcpy(A[j].value,A[j+1].value);
+        strcpy(A[j+1].value,temp);
       }
     }
   }
-}
-
-
-int main(){
-  char A[100];
-  int len,index;
-  char value;
-  
-  printf("Type a something below:\n");
-  scanf("%s",A);
-  sortingAll(A);
   printf("\nSorted :D\n");
-  len=strlen(A);
  do{
-  printf("Search a character: ");
-  scanf("%c",&value);
-  scanf("%c",&value);
-  index=binarySearch(A,len,value);
+  printf("Search a The words that you had typed: ");
+  fgets(temp,100,stdin);
+  index=binarySearch(A,TAM,temp);
   if(index>=0){
     printf("\nposition: %d\n",index+1);  
-    for(int i=0;i<len;i++){
-      if(i==index){ printf("v"); break; }
-      else{ printf(" "); }      
+    for(int i=0;i<TAM;i++){
+      if(i==index){ 
+        printf("found > "); 
+        printf("%s",A[i].value);
+        }
+      else{ 
+        printf(" ");
+        printf("%s",A[i].value);
+        }      
     }
     printf("\n");
   }else{printf("\nchar was not found\n");}
-  for(int i=0;i<len;i++){
-    printf("%c",A[i]);
-  }
    
 printf("\n");  
  }while(index==-1); 
