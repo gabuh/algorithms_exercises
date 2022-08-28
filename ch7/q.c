@@ -8,7 +8,7 @@ struct String{
   char value[100];
 };
 
-int searchIndex(char compChar){
+int searchCharSize(char compChar){
   char abc[]={"'` ,[]{}.?~!@#$%^*=+-AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"};
     for (int i=0;i<74;i++){
        if(abc[i]==compChar){
@@ -26,7 +26,7 @@ int binarySearch(struct String vector[], int indexTotal,char value[]){
     if(strcmp(vector[index].value,value)==0){
       return index;
     } 
-    if(searchIndex(vector[index].value[0])<searchIndex(value[0])){
+    if(searchCharSize(vector[index].value[0])<searchCharSize(value[0])){
       start=index +1;
     }else{
       indexTotal=index -1;
@@ -50,7 +50,7 @@ int main(){
   
   for(int i=0;i<TAM-1;i++){
     for(int j=0;j<(TAM-1)-i;j++){
-      if(searchIndex(A[j].value[0])>searchIndex(A[j+1].value[0])){
+      if(searchCharSize(A[j].value[0])>searchCharSize(A[j+1].value[0])){
         strcpy(temp,A[j].value);
         strcpy(A[j].value,A[j+1].value);
         strcpy(A[j+1].value,temp);
@@ -75,7 +75,7 @@ int main(){
         }      
     }
     printf("\n");
-  }else{printf("\nchar was not found\n");}
+  }else{printf("\nword was not found\n");}
    
 printf("\n");  
  }while(index==-1); 
