@@ -322,6 +322,15 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 </details>
 
 
+### [Ex.R String Sorting](/ch7/r.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.rchapter7](/ch7/r_c7.png)
+
+</details>
+
+
 </details> 
 
 ---
