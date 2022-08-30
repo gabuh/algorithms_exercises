@@ -4,11 +4,12 @@ Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr 
 To better understand the Flowchart Diagrams, take a look at:
 
 <details>
-<summary> Flowchartmap :label: </summary>
+<summary> Flowchart Map :mag: </summary>
 
-<img src="/img/flowchartmap.png" width="50%">
+<img src="/img/flowchartmap.png" width="110%">
 
 </details>
+
 ---
 
 <details>
