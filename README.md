@@ -1,6 +1,10 @@
 # algorithms_exercises
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
 
+To better understand the Flowcharts Diagrams, take a look at:
+![flowchartmap](/img/flowchartmap.png)
+
+
 <details>
 <summary>Chapter 4 - Conditional :white_large_square: </summary>
 
