@@ -1,11 +1,11 @@
 # algorithms_exercises
 Exercises from the book Algorithms by Jose Augusto Navarro Garcia Manzano, Jayr Figueiredo de Oliveira
 
-To better understand the Flowchart Diagrams, take a look at:
 
 <details>
 <summary> Flowchart Map :mag: </summary>
 
+To better understand the Flowchart Diagrams, take a look at:
 <img src="/img/flowchartmap.png" width="110%">
 
 </details>
@@ -194,7 +194,7 @@ To better understand the Flowchart Diagrams, take a look at:
 ---
 
 <details>
-<summary>Chapter 7 - Sorting & Search :round_pushpin:</summary>
+<summary>Chapter 7 - Sorting & Search :white_check_mark:</summary>
 
 ### [EX.A Sorting a vector](/ch7/a.c)
 <details>
