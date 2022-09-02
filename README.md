@@ -383,6 +383,16 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
+### [Ex.D Factoring and Powering Columns](/ch8/d.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.dchapter8](/ch8/d_c8.png)
+
+</details>
+
 ### [Ex.E Multiplying Columns](/ch8/e.c)
 
 <details>
