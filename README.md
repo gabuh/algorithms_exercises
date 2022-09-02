@@ -324,7 +324,7 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
-### [Ex.Q ABC Sorting and Binary Search](/ch7/q.c)
+### [Ex.Q String Sorting and Binary Search](/ch7/q.c)
 <details>
 <summary> Flowchart </summary>
 
@@ -383,13 +383,23 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
-### [Ex.D 2D Columns](/ch8/d.c)
+### [Ex.E Multiplying Columns](/ch8/e.c)
 
 <details>
 
 <summary> Flowchart </summary>
 
-![ex.dchapter8](/ch8/d_c8.png)
+![ex.echapter8](/ch8/e_c8.png)
+
+</details>
+
+### [Ex.F Factorial 2D Arrays](/ch8/f.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.fchapter8](/ch8/f_c8.png)
 
 </details>
 
