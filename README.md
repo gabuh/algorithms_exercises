@@ -373,7 +373,7 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
-### [Ex.C 2D Columns and Lines](/ch8/c.c)
+### [Ex.C Columns and Lines 2D](/ch8/c.c)
 
 <details>
 
