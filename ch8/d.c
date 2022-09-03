@@ -26,14 +26,18 @@ int main(){
   int A[lin];
   int C[lin][col];
   for (int i=0;i<lin;i++){
-  scanf("%d",&A[i]);
+   scanf("%d",&A[i]);
   }
   
   for (int l=0;l<lin;l++){
     for(int c=0;c<col;c++){
-      C[l][0]=A[l]+5;
-      C[l][1]=factorial(A[l]);
-      C[l][2]=poww(2,A[l]);
+      if(c==0){
+      C[l][c]=A[l]+5;
+      }else if(c==1){
+      C[l][c]=factorial(A[l]);
+      }else if(c==2){
+      C[l][c]=poww(2,A[l]);
+      }
     }
   }
   

@@ -10,8 +10,6 @@ int main(){
 int A[lin];
 int B[lin];
 int C[lin][col];
-
-
 printf("Column 1\n");
 for(int i=0;i<lin;i++){
   scanf("%d",&A[i]);
@@ -23,22 +21,22 @@ for(int i=0;i<lin;i++){
 
 for (int l=0;l<lin;l++){
   for (int c=0;c<col;c++){
-   C[l][0]=A[l]*2; //column one
-   C[l][1]=B[l]-5; //colum two
+   if(c==0){
+   C[l][c]=A[l]*2; //column one
+   }else if(c==1){
+   C[l][c]=B[l]-5; //column two
+   }
     
   }
 }
 for (int l=0;l<lin;l++){
   for (int c=0;c<col;c++){
    printf("%d",C[l][c]);
-    
+  
   }
   printf("\n");
   
 }
-
-
-  
-  
+ 
   return 0;
 }
