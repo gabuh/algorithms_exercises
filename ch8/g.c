@@ -17,6 +17,7 @@ int main(){
   int A[lin][col];
   int B[lin][col];
 
+printf("Write %d Celsius elements to convert to Fahrenheit:\n",lin*col);
 for(int i=0;i<lin;i++){
   for(int j=0;j<col;j++){
   scanf("%d",&A[i][j]);
@@ -28,7 +29,7 @@ for(int i=0;i<lin;i++){
 
 for(int i=0;i<lin;i++){
   for(int j=0;j<col;j++){
-  printf("%d ",B[i][j]);
+  printf("c%d = f%d |",A[i][j],B[i][j]);
   }
   printf("\n");
 }
