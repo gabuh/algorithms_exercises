@@ -26,7 +26,6 @@ int main(){
     printf("Type any number beetween 1 and 12.\n");
     scanf("%d",&A[i][j]);
     }while(A[i][j]>12 || A[i][j]<1);
-      
       for(int ii=0;ii<=j;ii++){
       printf("%d ",A[i][ii]);  
       }  
