@@ -6,36 +6,39 @@ h) Elaborar um programa que leia uma matriz A do tipo inteira de duas dimensoes 
 #define lin 5
 #define col 5
 
-
 int main(){
   int A[lin][col];
   int B[lin][col];
   
-  
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
       scanf("%d",&A[i][j]);
+      for(int ii=0;ii<=i;ii++){
+        for(int jj=0;jj<=j;jj++){
+        printf("%d ",A[ii][jj]);
+        }
+        printf(">\n");
+      }
+      
     }
   }
-  
+
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
       if(i==j){
-        B[i][j]=A[i][j]*2;
+        B[i][j]=A[i][j]*3;
+      }else{
+      B[i][j]=A[i][j]*2;
       }
-      B[i][j]=A[i][j]*3;
     }
   }
   
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
-      printf("%d ",A[i][j]);
+      printf("%d ",B[i][j]);
     }
     printf("\n");
   }
-  
-  
-  
-  
+
   return 0;
 }
