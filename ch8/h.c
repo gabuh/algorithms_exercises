@@ -1,1 +1,41 @@
-h) Elaborar um programa que leia uma matriz A do tipo inteira de duas dimensoes com cinco linhas e cinco colunas. Construir uma matriz B de mesma dimensao, em que cada elemento seja o dobro de cada elemento correspondente da matriz A, com exceçao dos valores situados na diagonal principal (posiçoes B[1,1], B[2,2], B[3,3], B[4,4] e B[5,5]), os quais devem ser o triplo de cada elemento correspondente da matriz A. Apresentar ao final a matriz B.
+/*
+h) Elaborar um programa que leia uma matriz A do tipo inteira de duas dimensoes com cinco linhas e cinco colunas. Construir uma matriz B de mesma dimensao, em que cada elemento seja o dobro de cada elemento correspondente da matriz A, com exceï¿½ao dos valores situados na diagonal principal (posiï¿½oes B[1,1], B[2,2], B[3,3], B[4,4] e B[5,5]), os quais devem ser o triplo de cada elemento correspondente da matriz A. Apresentar ao final a matriz B.
+*/
+
+#include<stdio.h>
+#define lin 5
+#define col 5
+
+
+int main(){
+  int A[lin][col];
+  int B[lin][col];
+  
+  
+  for(int i=0;i<lin;i++){
+    for(int j=0;j<col;j++){
+      scanf("%d",&A[i][j]);
+    }
+  }
+  
+  for(int i=0;i<lin;i++){
+    for(int j=0;j<col;j++){
+      if(i==j){
+        B[i][j]=A[i][j]*2;
+      }
+      B[i][j]=A[i][j]*3;
+    }
+  }
+  
+  for(int i=0;i<lin;i++){
+    for(int j=0;j<col;j++){
+      printf("%d ",A[i][j]);
+    }
+    printf("\n");
+  }
+  
+  
+  
+  
+  return 0;
+}
