@@ -413,6 +413,26 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
+### [Ex.G Convert Temperature 2D Array](/ch8/g.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.gchapter8](/ch8/g_c8.png)
+
+</details>
+
+### [Ex.H Main Diagonal ](/ch8/h.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.hchapter8](/ch8/h_c8.png)
+
+</details>
+
 
 </details>
 

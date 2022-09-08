@@ -10,16 +10,18 @@ int main(){
   int A[lin][col];
   int B[lin][col];
   
+  printf("Just type some int values:\n");
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
       scanf("%d",&A[i][j]);
-      for(int ii=0;ii<=i;ii++){
-        for(int jj=0;jj<=j;jj++){
+    
+    }
+    
+    for(int ii=0;ii<=i;ii++){
+      for(int jj=0;jj<col;jj++){
         printf("%d ",A[ii][jj]);
-        }
-        printf(">\n");
       }
-      
+      printf("\n");
     }
   }
 
@@ -28,7 +30,7 @@ int main(){
       if(i==j){
         B[i][j]=A[i][j]*3;
       }else{
-      B[i][j]=A[i][j]*2;
+        B[i][j]=A[i][j]*2;
       }
     }
   }
