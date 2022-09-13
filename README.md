@@ -433,6 +433,16 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
+### [Ex.I ](/ch8/i.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.ichapter8](/ch8/i_c8.png)
+
+</details>
+
 
 </details>
 
