@@ -6,24 +6,39 @@
 #define lin 7
 #define col 7
 
+int factorial(int n){
+  int f=n;
+  for(int i=1;i<n;i++){
+    f=f*i;
+  }
+
+  return f;
+}
+
 int main(){
   int A[lin][col];
   int B[lin][col];
   
-  
-  
+  printf("A:\n");
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
-      A[i][j]=0;
+      A[i][j]=6;
     }
   }
 
-  
+    for(int i=0;i<lin;i++){
+    for(int j=0;j<col;j++){
+      printf("%d ",A[i][j]);
+    }
+    printf("\n");
+  }
+
+
+
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
       if(i==j && j%2!=0){
-        // B[i][j]=factorial(A[i][j]);
-        B[i][j]=0;
+        B[i][j]=factorial(A[i][j]);
       }else{
         for(int ii=0;ii<=i+j;ii++){
           B[i][j]=A[i][j]+ii;
@@ -33,6 +48,7 @@ int main(){
     }
   }
   
+  printf("B:\n");
   for(int i=0;i<lin;i++){
     for(int j=0;j<col;j++){
       printf("%d ",B[i][j]);
