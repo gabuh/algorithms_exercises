@@ -6,11 +6,9 @@ Supondo a exist�ncia de 20 elementos pares e 50 elementos impares, ter-se-ia 2
 */
 #include<stdio.h>
 #include<stdlib.h>
-#include<unistd.h>
 
 #define lin 10
 #define col 7
-
 
 int main(){
     int A[lin][col];
@@ -20,29 +18,11 @@ int main(){
     for(int i=0;i<lin;i++){
         for (int j=0;j<col;j++){
             A[i][j]=rand()%10;
-        }
-    }
-
-
-    for(int i=0;i<lin;i++){
-        for (int j=0;j<col;j++){
-            if(A[i][j]%2==0){
-                even++;
-            }else{
-                odd++;
-            }
-
-        }
-    }
-
-
-    for(int i=0;i<lin;i++){
-        for (int j=0;j<col;j++){
+            A[i][j]%2==0?even++:odd++;
             printf("%d ",A[i][j]);
         }
         printf("\n");
     }
-
     
     printf("Odd Total: %d, %f%%\nEven Total: %d, %f%%\n",odd,(float)((double)100/(lin*col))*odd,even,(float)((double)100/(lin*col))*even);
 
