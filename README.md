@@ -443,6 +443,16 @@ To better understand the Flowchart Diagrams, take a look at:
 
 </details>
 
+### [Ex.I ](/ch8/j.c)
+
+<details>
+
+<summary> Flowchart </summary>
+
+![ex.jchapter8](/ch8/j_c8.png)
+
+</details>
+
 
 </details>
 
