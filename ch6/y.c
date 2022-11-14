@@ -10,7 +10,6 @@ int main(){
   
   for(int i=0; i<TAM; i++){
     A[i] = rand()%10;
-    //printf("%d ",A[i]);
     if(A[i] % 2 == 0){
       printf("%d< ",A[i]);
       paresTotal++;
@@ -20,6 +19,5 @@ int main(){
   }
   printf("\nTotal de pares:%d \n",paresTotal);
   
-  
-  
+  return 0;
 }
