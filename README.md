@@ -187,7 +187,214 @@ To better understand the Flowchart Diagrams, take a look at:
 <details>
 <summary>Chapter 6 - Matrices & Vectors :white_large_square: </summary>
 
-### Nothing YET
+### [Ex.A](/ch6/a.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.achapter6](/ch6/a_c6.png)
+
+</details>
+
+### [Ex.B](/ch6/b.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.bchapter6](/ch6/b_c6.png)
+
+</details>
+
+### [Ex.C](/ch6/c.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.cchapter6](/ch6/c_c6.png)
+
+</details>
+
+### [Ex.D](/ch6/d.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.dchapter6](/ch6/d_c6.png)
+
+</details>
+
+### [Ex.E](/ch6/e.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.echapter6](/ch6/e_c6.png)
+
+</details>
+
+### [Ex.F](/ch6/f.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.fchapter6](/ch6/f_c6.png)
+
+</details>
+
+### [Ex.G](/ch6/g.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.gchapter6](/ch6/g_c6.png)
+
+</details>
+
+### [Ex.H](/ch6/h.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.hchapter6](/ch6/h_c6.png)
+
+</details>
+
+### [Ex.I](/ch6/i.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.ichapter6](/ch6/i_c6.png)
+
+</details>
+
+### [Ex.J](/ch6/j.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.jchapter6](/ch6/j_c6.png)
+
+</details>
+
+### [Ex.K](/ch6/k.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.kchapter6](/ch6/k_c6.png)
+
+</details>
+
+### [Ex.L](/ch6/l.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.lchapter6](/ch6/l_c6.png)
+
+</details>
+
+### [Ex.M](/ch6/m.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.mchapter6](/ch6/m_c6.png)
+
+</details>
+
+### [Ex.N](/ch6/n.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.nchapter6](/ch6/n_c6.png)
+
+</details>
+
+### [Ex.O](/ch6/o.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.ochapter6](/ch6/o_c6.png)
+
+</details>
+
+### [Ex.P](/ch6/p.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.pchapter6](/ch6/p_c6.png)
+
+</details>
+
+### [Ex.Q](/ch6/q.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.qchapter6](/ch6/q_c6.png)
+
+</details>
+
+### [Ex.R](/ch6/r.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.rchapter6](/ch6/r_c6.png)
+
+</details>
+
+### [Ex.S](/ch6/s.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.schapter6](/ch6/s_c6.png)
+
+</details>
+
+### [Ex.T](/ch6/t.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.tchapter6](/ch6/t_c6.png)
+
+</details>
+
+### [Ex.U](/ch6/u.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.uchapter6](/ch6/u_c6.png)
+
+</details>
+
+### [Ex.V](/ch6/v.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.vchapter6](/ch6/v_c6.png)
+
+</details>
+
+### [Ex.W](/ch6/w.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.wchapter6](/ch6/w_c6.png)
+
+</details>
+
+### [Ex.X](/ch6/x.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.xchapter6](/ch6/x_c6.png)
+
+</details>
+
+### [Ex.Y](/ch6/y.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.ychapter6](/ch6/y_c6.png)
+
+</details>
+
+### [Ex.Z](/ch6/z.c)
+<details>
+<summary> Flowchart </summary>
+
+![ex.zchapter6](/ch6/z_c6.png)
+
+</details>
+
 
 </details>
 
