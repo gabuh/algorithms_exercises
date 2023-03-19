@@ -1,1 +1,26 @@
-e) Efetuar o calculo e a apresentaçao do valor de uma prestaçao em atraso, utilizando a formula PRESTACAO <--  VALOR + (VALOR * TAXA/100) * TEMPO).
+// e) Efetuar o calculo e a apresentaï¿½ao do valor de uma prestaï¿½ao em atraso, utilizando a formula PRESTACAO <--  VALOR + (VALOR * TAXA/100) * TEMPO).
+
+
+#include <stdio.h>
+
+void main(){
+    float tempo;
+    float taxa;
+    float valor;
+    float prestacao;
+
+    printf("Tempo de atraso em dias: ");
+    scanf("%f",&tempo);
+
+    printf("\n Valor de taxa em %%: ");
+    scanf("%f",&taxa);
+
+    printf("\n Valor da prestacao %%: ");
+    scanf("%f",&valor);
+
+    prestacao = valor + (valor * (taxa / 100) * tempo); 
+    
+    printf("\n Valor atual: %f",prestacao);
+
+
+}
