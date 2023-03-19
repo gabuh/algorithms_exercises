@@ -1,1 +1,22 @@
-g) Ler quatro numeros inteiros e apresentar o resultado da adiçao e multiplicaçao, baseando-se na utilizaçao do conceito da propriedade distributiva. Ou seja, se forem lidas as variaveis A, B, C, e D, devem ser somadas e multiplicadas A com B, A com C e A com D. Depois B com C, B com D e por fim C com D. Perceba que sera necessario efetuar seis operações de adiçao e seis operações de multiplicaçao e apresentar doze resultados de saida.
+// g) Ler quatro numeros inteiros e apresentar o resultado da adiï¿½ao e multiplicaï¿½ao, baseando-se na utilizaï¿½ao do conceito da propriedade distributiva. Ou seja, se forem lidas as variaveis A, B, C, e D, devem ser somadas e multiplicadas A com B, A com C e A com D. Depois B com C, B com D e por fim C com D. Perceba que sera necessario efetuar seis operaï¿½ï¿½es de adiï¿½ao e seis operaï¿½ï¿½es de multiplicaï¿½ao e apresentar doze resultados de saida.
+
+ #include <stdio.h>
+
+void main(){
+    int A, B, C, D;
+    A = B = C = D = 2;
+    int soma;
+    int mult;
+
+    printf("A + B = %d", soma = A + B);
+    printf("\nA + C = %d", soma = soma + C);
+    printf("\nA + D = %d", soma = soma + D);
+
+    
+    printf("\n\nA * B = %d", mult = A * B);
+    printf("\nA * C = %d", mult = mult * C);
+    printf("\nA * D = %d", mult = mult * D);
+
+
+}
+ 
