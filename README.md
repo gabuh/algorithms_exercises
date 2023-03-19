@@ -12,8 +12,203 @@ To better understand the Flowchart Diagrams, take a look at:
 
 ---
 
+
+
+<details>
+<summary>Chapter 3 - </symmary>
+
+### [Ex.A](/ch3/a.c)
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+graph TD
+A[Ler temperatura em Celsius C] --> B[Converter C para F]
+B --> C[Apresentar F]
+
+```
+
+</details>
+
+###[Ex.B](/ch3/b.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+graph TD
+  A[Ler temperatura em Fahrenheit F] --> B[Converter F para C]
+  B --> C[Apresentar C]
+
+```
+
+</details>
+
+### [Ex.C](/ch3/c.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v["pi → 3.14159265"]
+a[/raio/]
+
+b[/altura/]
+
+c["volume → pi * (altura^2) * raio "]
+
+d>volume]
+
+E([end])
+
+S --> v --> a --> b --> c --> d --> E
+
+```
+
+</details>
+
+
+
+### [Ex.D](/ch3/d.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v["consumo → 12"]
+a[/tempo/]
+
+b[/velocidade/]
+
+c["litro → (velocidade * tempo) / consumo "]
+
+d>litro]
+
+E([end])
+
+S --> v --> a --> b --> c --> d --> E
+
+```
+
+</details>
+
+
+### [Ex.E](/ch3/e.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+a[/tempo/]
+
+b[/taxa/]
+
+c1[/valor/]
+
+c["prestacao → valor + (valor * (taxa / 100) * tempo) "]
+
+d>prestacao]
+
+E([end])
+
+S --> c1 --> a --> b --> c --> d --> E
+
+```
+
+</details>
+
+### [Ex.F](/ch3/f.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+a[/A/]
+
+b[/B/]
+
+
+c["temporaria → A"]
+c2["A → B"]
+c3["B → temporaria"]
+
+d> A , B ]
+
+E([end])
+
+S --> a --> b --> c --> c2 --> c3 --> d --> E
+
+```
+
+</details>
+
+### [Ex.G](/ch3/g.c)
+
+<details>
+<summary>flowchart</symmary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+v3[/C/]
+v4[/D/]
+
+a>"'A + B = ' +  soma → A + B"]
+a1>"'A + B = ' +  soma → soma + C"]
+a2>"'A + B = ' +  soma → soma + D"]
+
+b>"'A * B = ' +  mult → A * B"]
+b1>"'A * B = ' +  mult → mult * B"]
+b2>"'A * B = ' +  mult → mult * B"]
+
+E([end])
+
+S --> v1 --> v2 --> v3 --> v4 --> a --> a1 --> a2 --> b --> b1 --> b2 --> E
+
+```
+
+</details>
+
+
+
+
+
+
+
+
+</details>
+
+
+---
+
 <details>
 <summary>Chapter 4 - Conditional :white_large_square: </summary>
+
 
 
 ### Nothing YET
@@ -25,7 +220,6 @@ To better understand the Flowchart Diagrams, take a look at:
 ---
 
 <details> 
-
 <summary>Chapter 5 - Loops :white_check_mark: </summary>
 
 ### [Ex.A Power of two](/ch5/a.c)
