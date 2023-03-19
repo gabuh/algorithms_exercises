@@ -17,6 +17,7 @@ To better understand the Flowchart Diagrams, take a look at:
 <details>
 <summary>Chapter 3 - </symmary>
 
+
 ### [Ex.A](/ch3/a.c)
 <details>
 <summary>flowchart</symmary>
@@ -30,7 +31,7 @@ B --> C[Apresentar F]
 
 </details>
 
-###[Ex.B](/ch3/b.c)
+### [Ex.B](/ch3/b.c)
 
 <details>
 <summary>flowchart</symmary>
