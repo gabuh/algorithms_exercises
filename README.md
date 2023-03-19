@@ -15,12 +15,12 @@ To better understand the Flowchart Diagrams, take a look at:
 
 
 <details>
-<summary>Chapter 3 - </symmary>
+<summary>Chapter 3 - </summary>
 
 
 ### [Ex.A](/ch3/a.c)
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 graph TD
@@ -31,10 +31,10 @@ B --> C[Apresentar F]
 
 </details>
 
-### [Ex.B](/ch3/b.c)
 
+### [Ex.B](/ch3/b.c)
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 graph TD
@@ -45,10 +45,10 @@ graph TD
 
 </details>
 
-### [Ex.C](/ch3/c.c)
 
+### [Ex.C](/ch3/c.c)
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 flowchart
@@ -76,9 +76,8 @@ S --> v --> a --> b --> c --> d --> E
 
 
 ### [Ex.D](/ch3/d.c)
-
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 flowchart
@@ -105,9 +104,8 @@ S --> v --> a --> b --> c --> d --> E
 
 
 ### [Ex.E](/ch3/e.c)
-
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 flowchart
@@ -133,10 +131,10 @@ S --> c1 --> a --> b --> c --> d --> E
 
 </details>
 
-### [Ex.F](/ch3/f.c)
 
+### [Ex.F](/ch3/f.c)
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 flowchart
@@ -163,10 +161,10 @@ S --> a --> b --> c --> c2 --> c3 --> d --> E
 
 </details>
 
-### [Ex.G](/ch3/g.c)
 
+### [Ex.G](/ch3/g.c)
 <details>
-<summary>flowchart</symmary>
+<summary>flowchart</summary>
 
 ```mermaid
 flowchart
