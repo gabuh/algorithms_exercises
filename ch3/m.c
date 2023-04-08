@@ -1,1 +1,23 @@
-m) Elaborar um programa que efetue a leitura de três valores (A,B e C) e apresente como resultado final o quadrado da soma dos três valores lidos.
+/*
+m) Elaborar um programa que efetue a leitura de trï¿½s valores (A,B e C) e apresente como resultado final o quadrado da soma dos trï¿½s valores lidos.
+*/
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+    int A, B, C;
+
+    printf("First Value: ");
+    scanf("%d",&A);
+
+    printf("\nSecond Value: ");
+    scanf("%d",&B);
+
+    printf("\nThird Value: ");
+    scanf("%d",&C);
+
+    printf("(First Value ^ 2) + (Second Value ^ 2) + (Third Value ^ 2) = %f", pow((double)A,2) + pow((double)B,2) + pow((double)C,2));
+
+    return 0;
+}
