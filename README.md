@@ -194,6 +194,237 @@ S --> v1 --> v2 --> v3 --> v4 --> a --> a1 --> a2 --> b --> b1 --> b2 --> E
 </details>
 
 
+### [Ex.H](/ch3/h.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/C/]
+v2[/L/]
+v3[/A/]
+
+b2>"'Volume e ' +  C*L*A"]
+
+E([end])
+
+S --> v1 --> v2 --> v3 --> b2 --> E
+
+```
+
+</details>
+
+
+### [Ex.I](/ch3/i.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/value/]
+
+b2>"'value ^ 2 =  ' +  Math.h → pow(value,2)"]
+
+E([end])
+
+S --> v1 --> b2 --> E
+
+```
+
+</details>
+
+
+
+### [Ex.J](/ch3/j.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+
+b2>"'(A ^ 2) - (B ^ 2) =  ' +  Math.h → pow(A,2) - Math.h → pow(B,2)"]
+
+E([end])
+
+S --> v1 --> v2 --> b2 --> E
+
+```
+
+</details>
+
+
+
+### [Ex.K](/ch3/k.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/cotacao/]
+v2[/realAmount/]
+
+b2>"'Conversao: R$' +  cotacao * realAmount"]
+
+E([end])
+
+S --> v1 --> v2 --> b2 --> E
+
+```
+
+</details>
+
+
+### [Ex.L](/ch3/l.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/cotacao/]
+v2[/realAmount/]
+
+b2>"'Conversao: $' +  cotacao / realAmount"]
+
+E([end])
+
+S --> v1 --> v2 --> b2 --> E
+
+```
+
+</details>
+
+
+### [Ex.M](/ch3/m.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+v3[/C/]
+
+b2>"'(A ^ 2) + (B ^ 2) + (C ^ 2) =  ' +  Math.h → pow(A,2) + Math.h → pow(B,2) + Math.h → pow(C,2)"]
+
+E([end])
+
+S --> v1 --> v2 --> v3 --> b2 --> E
+
+```
+
+</details>
+
+
+
+### [Ex.N](/ch3/n.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+v3[/C/]
+
+b2>"'(A ^ 2) + (B ^ 2) + (C ^ 2) =  ' +  Math.h → pow(A,2) + Math.h → pow(B,2) + Math.h → pow(C,2)"]
+
+E([end])
+
+S --> v1 --> v2 --> v3 --> b2 --> E
+
+```
+
+</details>
+
+
+
+### [Ex.O](/ch3/o.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+v3[/C/]
+v4[/D/]
+
+V6[P → A + C]
+V7[S → B + D]
+
+b2>"'A + C =  ' +  P"]
+b3>"'B + D =  ' +  S"]
+
+E([end])
+
+S --> v1 --> v2 --> v3 --> v4 --> v5 --> v6 --> v7 --> b2 --> b3 --> E
+
+```
+
+</details>
+
+
+### [Ex.P](/ch3/p.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/income/]
+v2[/adjust/]
+
+b2>"'The adjust of %' + adjust + ' is ' +  ((income / 100) * adjust) + income"]
+
+E([end])
+
+S --> v1 --> v2 --> b2 --> E
+
+```
+
+</details>
+
+
+
+
+
 
 
 
