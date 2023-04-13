@@ -422,8 +422,85 @@ S --> v1 --> v2 --> b2 --> E
 </details>
 
 
+### [Ex.Q](/ch3/q.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
 
 
+S([Start])
+
+v1[/raio/]
+
+b2>"'Area e' + 3.14159265 * Math.h→pow( raio , 2)"]
+
+E([end])
+
+S --> v1 --> b2 --> E
+
+```
+
+
+</details>
+
+### [Ex.R](/ch3/r.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+classDiagram
+
+class Candidato{
+	nome: char
+	quantidadeTotalDeVotos: int
+	votos: int[]
+	addVoto(int tipoVoto) void
+}
+
+class Urna{
+	candidatos : List< Candidato >
+	quantidadeVotosValidos() int
+	quantidadeVotosBrancos() int
+	quantidadeVotosNulos() int
+	porcentagemDeVotos() void
+	
+}
+
+Urna "1..*" --> Candidato
+
+```
+
+</details>
+
+
+
+### [Ex.S](/ch3/s.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/A/]
+v2[/B/]
+
+b2>"'A+B = ' + A + B"]
+b3>"'A-B = ' + A - B"]
+b4>"'A*B = ' + A * B"]
+b5>"'A/B = ' + A / B"]
+
+E([end])
+
+S --> v1 --> v2 --> b2 --> b3 --> b4 --> b5 --> E
+
+```
+
+</details>
 
 
 
