@@ -503,6 +503,31 @@ S --> v1 --> v2 --> b2 --> b3 --> b4 --> b5 --> E
 </details>
 
 
+### [Ex.T](/ch3/t.c)
+<details>
+<summary>flowchart</summary>
+
+```mermaid
+flowchart
+
+
+S([Start])
+
+v1[/D/]
+v2[/T/]
+
+b1["V → (D * 1000) / (T * 60)"]
+
+b2>"'Velocidade = ' + V "]
+
+E([end])
+
+S --> v1 --> v2 --> b1 --> b2 --> E
+
+```
+
+</details>
+
 
 
 
