@@ -1,1 +1,1 @@
-i) Elaborar um programa que apresente o valor da conversao em real (R$) de um valor lido em dolar (US$). Devem ser solicitados por meio do programa principal o valor da cotaçao do dolar e a quantidade de dolar disponivel.
+// Elaborar um programa que apresente o valor da conversao em real (R$) de um valor lido em dolar (US$). Devem ser solicitados por meio do programa principal o valor da cotaçao do dolar e a quantidade de dolar disponivel.

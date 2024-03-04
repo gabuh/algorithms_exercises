@@ -1,1 +1,1 @@
-h) Efetuar a leitura de quatro valores numericos inteiros representados pelas variaveis A, B, C e D. Apresentar apenas os valores que sejam divisiveis por 2 ou 3.
+// Efetuar a leitura de quatro valores numericos inteiros representados pelas variaveis A, B, C e D. Apresentar apenas os valores que sejam divisiveis por 2 ou 3.

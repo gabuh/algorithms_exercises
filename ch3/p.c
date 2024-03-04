@@ -3,21 +3,3 @@ p) Elaborar um programa que leia o valor numerico correspondente ao salario mens
 */
 
 
-#include<stdio.h>
-
-int main(){
-    float income;
-
-    float adjust;
-
-    printf("Type ur income $: ");
-    scanf("%f",&income);
-    printf("\nType the percent adjust: %%");
-    scanf("%f",&adjust);
-
-    
-    printf("\nType the adjust of %d%% is: %f ", (int) adjust,((income/100) * adjust) + income);
-
-
-    return 0;
-}
