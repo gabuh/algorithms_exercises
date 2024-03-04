@@ -554,155 +554,155 @@ S --> v1 --> v2 --> b1 --> b2 --> E
 <details> 
 <summary>Chapter 5 - Loops :white_check_mark: </summary>
 
-### [Ex.A Power of two](/ch5/a.c)
+### [Ex.A Power of two](/chapter_5/a.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.achapter5](/ch5/a_c5.png)
+![ex.achapter5](/chapter_5/a_c5.png)
 
 </details>
 
-### [Ex.B Math table](/ch5/b.c)
+### [Ex.B Math table](/chapter_5/b.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.bchapter5](/ch5/b_c5.png)
+![ex.bchapter5](/chapter_5/b_c5.png)
 
 </details>
 
-### [Ex.C Counting Numbers SUM](/ch5/c.c)
+### [Ex.C Counting Numbers SUM](/chapter_5/c.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.cchapter5](/ch5/c_c5.png)
+![ex.cchapter5](/chapter_5/c_c5.png)
 
 </details>
 
-### [Ex.D EVEN SUM](/ch5/d.c)
+### [Ex.D EVEN SUM](/chapter_5/d.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.dchapter5](/ch5/d_c5.png)
+![ex.dchapter5](/chapter_5/d_c5.png)
 
 </details>
 
-### [Ex.E ODD Numbers ](/ch5/e.c)
+### [Ex.E ODD Numbers ](/chapter_5/e.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.echapter5](/ch5/e_c5.png)
+![ex.echapter5](/chapter_5/e_c5.png)
 
 </details>
 
-### [Ex.F Divisibility by four ](/ch5/f.c)
+### [Ex.F Divisibility by four ](/chapter_5/f.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.fchapter5](/ch5/f_c5.png)
+![ex.fchapter5](/chapter_5/f_c5.png)
 
 </details>
 
-### [Ex.G Power of three ](/ch5/g.c)
+### [Ex.G Power of three ](/chapter_5/g.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.gchapter5](/ch5/g_c5.png)
+![ex.gchapter5](/chapter_5/g_c5.png)
 
 </details>
 
-### [Ex.H Power of choices ](/ch5/h.c)
+### [Ex.H Power of choices ](/chapter_5/h.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.hchapter5](/ch5/h_c5.png)
+![ex.hchapter5](/chapter_5/h_c5.png)
 
 </details>
 
-### [Ex.I Fibonacci](/ch5/i.c)
+### [Ex.I Fibonacci](/chapter_5/i.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.ichapter5](/ch5/i_c5.png)
+![ex.ichapter5](/chapter_5/i_c5.png)
 
 </details>
 
-### [Ex.J Temperature](/ch5/j.c)
+### [Ex.J Temperature](/chapter_5/j.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.jchapter5](/ch5/j_c5.png)
+![ex.jchapter5](/chapter_5/j_c5.png)
 
 </details>
 
-### [Ex.K Malba Tahan](/ch5/k.c)
+### [Ex.K Malba Tahan](/chapter_5/k.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.kchapter5](/ch5/k_c5.png)
+![ex.kchapter5](/chapter_5/k_c5.png)
 
 </details>
 
-### [Ex.L Factorial](/ch5/l.c)
+### [Ex.L Factorial](/chapter_5/l.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.lchapter5](/ch5/l_c5.png)
+![ex.lchapter5](/chapter_5/l_c5.png)
 
 </details>
 
-### [Ex.M Mean Sum](/ch5/m.c)
+### [Ex.M Mean Sum](/chapter_5/m.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.mchapter5](/ch5/m_c5.png)
+![ex.mchapter5](/chapter_5/m_c5.png)
 
 </details>
 
-### [Ex.N Sum and Mean](/ch5/n.c)
+### [Ex.N Sum and Mean](/chapter_5/n.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.nchapter5](/ch5/n_c5.png)
+![ex.nchapter5](/chapter_5/n_c5.png)
 
 </details>
 
-### [Ex.O Odd Factorial](/ch5/o.c)
+### [Ex.O Odd Factorial](/chapter_5/o.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.ochapter5](/ch5/o_c5.png)
+![ex.ochapter5](/chapter_5/o_c5.png)
 
 </details>
 
-### [Ex.P Mean Sum](/ch5/p.c)
+### [Ex.P Mean Sum](/chapter_5/p.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.pchapter5](/ch5/p_c5.png)
+![ex.pchapter5](/chapter_5/p_c5.png)
 
 </details>
 
-### [Ex.Q Area Measurement](/ch5/q.c)
+### [Ex.Q Area Measurement](/chapter_5/q.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.qchapter5](/ch5/q_c5.png)
+![ex.qchapter5](/chapter_5/q_c5.png)
 
 </details>
 
-### [Ex.R Smallest Number and Biggest Number](/ch5/r.c)
+### [Ex.R Smallest Number and Biggest Number](/chapter_5/r.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.rchapter5](/ch5/r_c5.png)
+![ex.rchapter5](/chapter_5/r_c5.png)
 
 </details>
 
-### [Ex.S Division Operation](/ch5/s.c)
+### [Ex.S Division Operation](/chapter_5/s.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.schapter5](/ch5/s_c5.png)
+![ex.schapter5](/chapter_5/s_c5.png)
 
 </details>
 
@@ -929,115 +929,115 @@ S --> v1 --> v2 --> b1 --> b2 --> E
 <details>
 <summary>Chapter 7 - Sorting & Search :white_check_mark:</summary>
 
-### [EX.A Sorting a vector](/ch7/a.c)
+### [EX.A Sorting a vector](/chapter_7/a.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.achapter7](/ch7/a_c7.png)
+![ex.achapter7](/chapter_7/a_c7.png)
 
 </details>
 
-### [Ex.B Binary Searching](/ch7/b.c)
+### [Ex.B Binary Searching](/chapter_7/b.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.bchapter7 ](/ch7/b_c7.png)
+![ex.bchapter7 ](/chapter_7/b_c7.png)
 
 </details>
 
-### [Ex.C Elements' Factorial](/ch7/c.c)
+### [Ex.C Elements' Factorial](/chapter_7/c.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.cchapter7](/ch7/c_c7.png)
+![ex.cchapter7](/chapter_7/c_c7.png)
 
 </details>
 
-### [Ex.D Vectors' sum](/ch7/d.c)
+### [Ex.D Vectors' sum](/chapter_7/d.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.dchapter7](/ch7/d_c7.png)
+![ex.dchapter7](/chapter_7/d_c7.png)
 
 </details>
 
-### [Ex.E Holding elements of two vectors](/ch7/e.c)
+### [Ex.E Holding elements of two vectors](/chapter_7/e.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.echapter7](/ch7/e_c7.png)
+![ex.echapter7](/chapter_7/e_c7.png)
 
 </details>
 
-### [Ex.F Sequence Searching](/ch7/e.c)
+### [Ex.F Sequence Searching](/chapter_7/e.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.fchapter7](/ch7/e_c7.png)
+![ex.fchapter7](/chapter_7/e_c7.png)
 
 </details>
 
-### [Ex.G Binary Searching 2](/ch7/g.c)
+### [Ex.G Binary Searching 2](/chapter_7/g.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.gchapter7](/ch7/g_c7.png)
+![ex.gchapter7](/chapter_7/g_c7.png)
 
 </details>
 
-### [Ex.H Operantion & Sorting](/ch7/h.c)
+### [Ex.H Operantion & Sorting](/chapter_7/h.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.hchapter7](/ch7/h_c7.png)
+![ex.hchapter7](/chapter_7/h_c7.png)
 
 </details>
 
-### [Ex.I Sorting a vector 2](/ch7/i.c)
+### [Ex.I Sorting a vector 2](/chapter_7/i.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.ichapter7](/ch7/i_c7.png)
+![ex.ichapter7](/chapter_7/i_c7.png)
 
 </details>
 
-### [Ex.J Math Operation & Factorial](/ch7/j.c)
+### [Ex.J Math Operation & Factorial](/chapter_7/j.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.jchapter7](/ch7/j_c7.png)
+![ex.jchapter7](/chapter_7/j_c7.png)
 
 </details>
 
-### [Ex.K Pow & Sorting](/ch7/k.c)
+### [Ex.K Pow & Sorting](/chapter_7/k.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.kchapter7](/ch7/k_c7.png)
+![ex.kchapter7](/chapter_7/k_c7.png)
 
 </details>
 
-### [Ex.L Operation & Sorting 2](/ch7/l.c)
+### [Ex.L Operation & Sorting 2](/chapter_7/l.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.lchapter7](/ch7/l_c7.png)
+![ex.lchapter7](/chapter_7/l_c7.png)
 
 </details>
 
-### [Ex.M Sequence Searching 2](/ch7/m.c)
+### [Ex.M Sequence Searching 2](/chapter_7/m.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.mchapter7](/ch7/m_c7.png)
+![ex.mchapter7](/chapter_7/m_c7.png)
 
 </details>
 
-### [Ex.N Operation & Binary Search](/ch7/n.c)
+### [Ex.N Operation & Binary Search](/chapter_7/n.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.nchapter7](/ch7/n_c7.png)
+![ex.nchapter7](/chapter_7/n_c7.png)
 
 </details>
 
@@ -1090,19 +1090,19 @@ S --> v1 --> v2 --> b1 --> b2 --> E
 <details>
 <summary>Chapter 8 :round_pushpin: </summary>
 
-### [Ex.A Two Dimension Vector](/ch8/a.c)
+### [Ex.A Two Dimension Vector](/chapter_8/a.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.achapter8](/ch8/a_c8.png)
+![ex.achapter8](/chapter_8/a_c8.png)
 
 </details>
 
-### [Ex.B Two Dimension Vector](/ch8/b.c)
+### [Ex.B Two Dimension Vector](/chapter_8/b.c)
 <details>
 <summary> Flowchart </summary>
 
-![ex.bchapter8](/ch8/b_c8.png)
+![ex.bchapter8](/chapter_8/b_c8.png)
 
 </details>
 
